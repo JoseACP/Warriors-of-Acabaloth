@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Caballero_Dragon","characterIndex":0,"characterName":"Falrick_Walking","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Falrick_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Falrick","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Monje","characterIndex":0,"characterName":"Kein_Walking","classId":4,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Kein_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kein","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Mago_Oscuro","characterIndex":0,"characterName":"Feanor_Walking","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Feanor_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Feanor","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Sacerdotisa","characterIndex":0,"characterName":"Merelin_Walking","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Merelin_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Merelin","nickname":"","note":"","profile":""}
+]
